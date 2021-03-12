@@ -1,6 +1,6 @@
 ## SimplePong
 
-A simple pong game that you are wellcome to play, work on, and have fun with this project!
+A simple pong game that you are welcome to play, work on, and have fun with this project!
 
 ### Running the precomplied exe
 
